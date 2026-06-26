@@ -20,7 +20,7 @@ I currently go to Clemson University, I'm entering my 3rd year there, I'm majori
 
 ##   Featured Projects
 
-###   [Infrastructure & Economic Growth Analysis](LINK_TO_YOUR_R_REPO)
+###   [Infrastructure & Economic Growth Analysis](https://github.com/ann05eliese/broadband-income-panel-analysis)
 An econometric study utilizing **R** to evaluate how broadband internet acess impacts median household income across all counties in South Carolina. The project leverages panel data with county and time fixed effects to control for unobserved heterogeneity.
 
 ###   [Turn-Based RPG Engine](LINK_TO_YOUR_PYTHON_GAME_REPO)
