@@ -26,7 +26,7 @@ An econometric study utilizing **R** to evaluate how broadband internet acess im
 ###   [Turn-Based RPG Engine](LINK_TO_YOUR_PYTHON_GAME_REPO)
 A Pokémon-inspired combat simulator built in **Python** to demonstrate advanced OOP architecture. Features dynamic stat calculations, type-matching logic, and automated asset loading from external data files using composition and inheritance.
 
-###   [New Institutional Economics Research](LINK_TO_YOUR_ESSAY_REPO)
+###   [New Institutional Economics Research](https://github.com/ann05eliese/transaction-costs-and-charleston)
 An analytical paper exploring the connection between transaction costs and the influx of people moving to charleston SC over the past 10 years.
 
 ---
