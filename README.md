@@ -31,7 +31,7 @@ A Pokémon-inspired combat simulator built in **Python** to demonstrate object o
 An analytical paper exploring the connection between transaction costs and the increase of people moving to Charleston SC over the past 10 years.
 
 
-### [Tic Tac Toe (Array Galore](https://github.com/ann05eliese/array-based-game-python)
+### [Tic Tac Toe (Array Galore)](https://github.com/ann05eliese/array-based-game-python)
 An interactive Python game that utilizes multi-dimensional arrays to simulate Tic-Tac-Toe. Features an error-resilient input validation system to handle incorrect user moves and evaluate array intersections to instantly identify player wins via diagonal, row, and column tracking.
 
 ---
