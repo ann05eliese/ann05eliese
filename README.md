@@ -36,7 +36,7 @@ An interactive Python game that utilizes multi-dimensional arrays to simulate Ti
 
 ---
 
-##  Connect with Me
+##  Connect with Me!
 
 *   **LinkedIn:** [linkedin.com/in/anneliesehall](https://linkedin.com/in/anneliesehall)
 *   **Email:** anneli3@clemson.edu
